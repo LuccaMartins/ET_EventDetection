@@ -1,3 +1,5 @@
+This is a fork from a repository that contains the Event Detection algorithms that I used in my BSc final projeect (https://github.com/LuccaMartins/CnLook_Clustering).
+
 #+TITLE: Eye tracking project: Implementation, comparison and analysis of the I-VT and I-DT gaze detection algorithms
 #+CREATOR: Emmanuel Bustos T.
 #+OPTIONS: toc:nil
