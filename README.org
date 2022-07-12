@@ -3,7 +3,7 @@
 #+CREATOR: Emmanuel Bustos T.
 #+OPTIONS: toc:nil
 
-This is a fork from a repository that contains the Event Detection algorithms that I used in my BSc final project (https://github.com/LuccaMartins/CnLook_Clustering).
+Lucca: This is a fork from a repository that contains the Event Detection algorithms that I used in my BSc final project (https://github.com/LuccaMartins/CnLook_Clustering).
 
 * Description
   This project consists in the implementation analysis and comparison of two gaze detection eye tracking algorithms, one velocity based (I-VT) and the other dispersion based (I-DT). The development of this project was done in the Python programming language on a Google Colab notebook, where all the sections to achieve the desired results are explained in detail.
